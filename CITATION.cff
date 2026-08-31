@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+
+title: "绿色金融促进高质量发展的经济学机制、研究进展与未来方向——基于中外文献的综述"
+
+authors:
+  - family-names: "Zhu"
+    given-names: "David"
+
+date-released: 2026-09-01
+version: "1.0.0"
+
+url: "https://github.com/GOOD-123-CPU/green-finance-high-quality-development-review"
+
+license: "CC-BY-4.0"
+
+keywords:
+  - green finance
+  - high-quality development
+  - green innovation
+  - transition finance
+  - literature review
